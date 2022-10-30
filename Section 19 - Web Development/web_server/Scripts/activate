@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Wojtek\Python\Complete Python Developer in 2022_Zero to Mastery\zero-to-mastery-python-course\Section 19 - Web Development\web_server"
+VIRTUAL_ENV="C:\Users\burma\Python\zero-to-mastery-python-course\Section 19 - Web Development\web_server"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

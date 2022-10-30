@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.Scripts/
+activate
+activate.bat
+flask.exe
+pip.exe
+pip3.10.exe
+pip3.exe
